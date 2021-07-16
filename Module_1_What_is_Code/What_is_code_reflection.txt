@@ -1,0 +1,37 @@
+﻿Sudipta Sil
+Module 1
+
+
+
+
+1. When we type a letter on a keyboard, the computer has to do a lot to get that letter from the keyboard to the screen. The computer has to communicate with itself through various signals to do that. It would send a signal from one part of the computer to another and continue doing so until it slowly recognizes the letter we’ve typed, its size, its font, what it looks like, etc.
+
+
+2. Computers use input and output to create experiences in many ways. Computers take a series of commands to output something useful, entertaining, etc to us. Technology in ATMs allows us to have a quicker experience taking out or depositing money from a bank. ATMs are everywhere and open 24/7 making life a lot more convenient for us. Another example would be Email. We can send an email to someone miles away and they will receive it in a matter of seconds. The input the computer receives in order to do this task is very different from the output we are getting from it. 
+
+
+3. Software products are described as “infinitely reproducible nothings” because they are easy to reproduce with barely any cost. It would be easy to charge people for software to use on their own computers that is produced by writing code. 
+
+
+4. In order for code to become software, the code that you write must have very specific instructions. The code must have even the most specific detail in it for the computer to be able to execute what we want it to do. When writing code, every symbol, character, etc matters and tells the computer what to do. Once the computer can successfully execute this code, we have our software. 
+
+
+5. Algorithms are what solve problems. They are the series of steps we need to take in order to find the solution to our problem. Programming languages are made up of different algorithms that do different things. There is a separate algorithm for translating from different languages and a different one for adding up items and millions more for other things. When you google something, the computer has various algorithms it must go through in order to get the results. 
+
+
+6. The DRY Principle stands for “Don’t Repeat Yourself”. This is basically saying that you shouldn’t write the same code or algorithm more than once. Rather, you should give your algorithm a name, or put it into a function, so when you need to solve the same problem, you can just reuse it. 
+
+
+7. Object-oriented programming is a library for the code you are writing. The more code you start to write and name different functions, the messier it will get. Object-oriented programming is a way to organize the code you’ve written and keep track of it. 
+
+
+8. Data is the information that is everywhere.  Data is in all the websites we use and anything that we want to view, listen to, watch, etc. Programming is supposed to manage and organize data. Databases store the data for us and we can use them to filter, organize and do other things with that data. 
+
+
+9. A framework is the basic structure of the code you will be writing. There are many popular frameworks available online such as Django. Frameworks help you set up your project and then you can decide how you want your data to look. They also anticipate and solve problems that you might come across in your code. 
+
+
+10. Debugging is finding out why things in your program are not working. Debugging is part of programming because a giant portion of time coding will be you trying to solve problems in your code. Websites like StackOverflow are dedicated to users who try to help each other identify and fix bugs in their programs. Debugging will help you better understand the syntax and how the language operates. 
+
+
+11. I want to learn how to code because there is so much that can be done with it. All the technology that we use day to day has code behind it. If I want a way to organize all the random data I have on my computer or if I want to have a website displaying years of my life I can do that with code. Technology is constantly evolving and in order to take advantage of that, we need to continue to evolve with it. I think it is important to keep up with the new languages being created and to learn even more about the older ones. I don’t think we can ever stop learning about them and know everything there is to know. As we read in the article, the company’s website and app became extremely outdated and difficult to use after years. Problems like this can be avoided if the systems were also constantly evolving with technology. Things like having your own business can rely on knowing these things and can save you money in the future. Technology is definitely the future and in order to be successful, I believe that you should aim to continue learning as much as you can about how it works.
