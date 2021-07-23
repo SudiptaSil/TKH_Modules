@@ -1,0 +1,11 @@
+1. Git is a version control system that is used by developers to track the changes they make in their code. Git allows multiple people to work on the same files. Git also allows developers to create different branches where code can be worked on, tested, and then go on to the Master branch where the final code would go. It is different from GitHub, as Github is used to Host Git Repositories. 
+
+2. Using the terminal is useful because it is more efficient than doing everything manually. We are able to speak to our computer directly, rather than through an interface. 
+
+3. There are many benefits of a version control system such as, 
+
+1) It allows multiple people to work on code at the same time. This is useful because multiple people working on the code at the same time will allow problems to be solved more quickly. 
+
+2) There are different branches. Developers can work on the code in a separate branch and test it locally on their computers, before they merge branches and test it on the web for everyone else. 
+
+3) Changes to the code are tracked. Developers can track the changes made my anyone on the code and fix bugs that have just occurred or undo changes. 
